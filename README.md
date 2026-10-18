@@ -1,11 +1,11 @@
-# 👋 你好，我是 Zhimeng
+# 👋 Hi, I'm Zhimeng
 
-**FDE 工程师 · 独立开发者 · OPC 探索者 · Agent 研发工程师**
+**FDE · Independent Developer · OPC Explorer · Agent Engineer**
 
-我具备产品能力和独立交付能力，擅长需求分析与挖掘，拥有从 0 到 1 的全栈工程研发和智能体工程研发经验，也有从 0 到 1 的业务分析与智能体办公提效经验。
+I combine product thinking with end-to-end delivery. I specialize in requirements discovery and analysis, and have built full-stack products and AI agents from 0 to 1. I also have hands-on experience in business analysis and improving workplace productivity with AI agents.
 
-我专注于企业 AI 流程优化与办公自动化：把员工日常工作中的操作逻辑转化为代码、Skills 和智能体指令，并基于企业现有技术设施集成落地；需要时也可以独立研发完整方案。我有通过 AI 自动化实际替代白领劳动的经验，目标是减少重复人工操作、优化人员与流程配置，帮助企业降本增效，并推动产品快速迭代上线。
+I focus on AI workflow optimization and workplace automation. I turn employees' day-to-day work processes into code, Skills, and agent instructions, integrating them with a company's existing technology stack. When needed, I can also build complete solutions independently. I have hands-on experience using AI automation to replace repetitive white-collar work. My goal is to reduce manual effort, optimize processes and workforce structures, lower costs, improve efficiency, and ship product iterations faster.
 
-[![一只会动的猫](https://raw.githubusercontent.com/yumiaura/myCat/refs/heads/main/docs/cat.gif)](https://github.com/yumiaura/myCat)
+[![An animated cat](https://raw.githubusercontent.com/yumiaura/myCat/refs/heads/main/docs/cat.gif)](https://github.com/yumiaura/myCat)
 
-感谢来访，欢迎交流 👋
+Thanks for stopping by. Feel free to connect! 👋
